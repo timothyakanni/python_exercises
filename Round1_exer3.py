@@ -1,5 +1,5 @@
 
-
+#this codes computes the sum, mean, maximum and minimum numbers for all the set of numbers inputted
 count = 0
 sum = 0.0
 mean = 0.0
